@@ -1,1 +1,1 @@
-{"name": "מוצרי_SpaceX", "id": 1944225, "predecessors": [{"name": "חברות_אמריקאיות", "id": 134651}, {"name": "ייצור", "id": 95982}], "successors": []}
+{"name": "מוצרי_SpaceX", "id": 1944225, "predecessors": [{"name": "SpaceX", "id": 1760383}, {"name": "ייצור", "id": 95982}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "משחקי_DOS", "id": 1154288, "predecessors": [{"name": "משחקי_מחשב", "id": 135267}, {"name": "תוכנות_DOS", "id": 393255}], "successors": []}
+{"name": "משחקי_DOS", "id": 1154288, "predecessors": [{"name": "משחקי_מחשב", "id": 135267}, {"name": "תוכנה", "id": 19245}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "רכבי_BMW", "id": 2053942, "predecessors": [{"name": "יצרני_רכב", "id": 30675}], "successors": []}
+{"name": "רכבי_BMW", "id": 2053942, "predecessors": [{"name": "כלי_רכב", "id": 85974}, {"name": "ייצור", "id": 95982}], "successors": []}

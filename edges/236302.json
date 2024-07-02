@@ -1,1 +1,1 @@
-{"name": "שמיעה", "id": 236302, "predecessors": [{"name": "הכרה", "id": 84113}], "successors": [{"name": "אקוסטיקה", "id": 22963}]}
+{"name": "שמיעה", "id": 236302, "predecessors": [{"name": "מערכת_העצבים", "id": 66218}], "successors": [{"name": "אקוסטיקה", "id": 22963}]}

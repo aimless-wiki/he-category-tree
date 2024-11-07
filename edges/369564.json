@@ -1,1 +1,1 @@
-{"name": "גלידות", "id": 369564, "predecessors": [{"name": "מוצרי_חלב", "id": 181213}, {"name": "קינוחים", "id": 57426}], "successors": []}
+{"name": "גלידות", "id": 369564, "predecessors": [{"name": "חלב", "id": 327067}, {"name": "קינוחים", "id": 57426}], "successors": []}
